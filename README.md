@@ -32,7 +32,7 @@ Note : You need an Antropic API key to run this locally.
 
 ## Purpose
 
-Build as part of my cybersecurity portfolio to demonstrate SOC analyst skills, IOC identification, threat classification, and AI-augmented security worklfows.
+Build as part of my cybersecurity portfolio to demonstrate SOC analyst skills, IOC identification, threat classification, and AI-augmented security workflows.
 
 ## Author
 AzureKodo
